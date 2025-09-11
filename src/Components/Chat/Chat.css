@@ -400,7 +400,7 @@ body.light-theme .message-box.user .message-icon {
 }
 
 body.light-theme .message-box.ai .message-icon {
-    background-color: #90caf9;
+    background: none;
 }
 
 body.light-theme .main .bottom-info {
