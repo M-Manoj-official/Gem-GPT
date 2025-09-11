@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://m-manoj-official.github.io/Gem-GPT/"
+    "homepage": "https://m-manoj-official.github.io/Gem-GPT"
   },
   "dependencies": {
     "@google/genai": "^1.16.0",
